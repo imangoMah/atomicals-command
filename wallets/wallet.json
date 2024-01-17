@@ -1,0 +1,14 @@
+{
+  "phrase": "",
+  "primary": {
+    "address": "",
+    "path": "",
+    "WIF": ""
+  },
+  "funding": {
+    "address": "",
+    "path": "m/86'/0'/0'/1/0",
+    "WIF": ""
+  },
+  "imported": {}
+}
